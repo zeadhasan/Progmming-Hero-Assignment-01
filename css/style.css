@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
 }
 h1 {
+  font-family: "Roboto", sans-serif;
   color: black;
   font-size: 80px;
   font-weight: 700;
@@ -41,4 +42,166 @@ section {
     rgba(216, 9, 9, 0.65)
   );
   border-radius: 5px;
+}
+.mission-text {
+  padding-left: 33%;
+}
+.mission-text h2 {
+  font-family: "Roboto", sans-serif;
+  text-align-last: center;
+  color: rgba(18, 18, 43, 0.945);
+  font-size: 50px;
+  font-weight: 700;
+}
+.mission-text h2 span {
+  color: rgba(218, 128, 25, 0.911);
+}
+.my-mission-text {
+  margin-top: 35px;
+  margin-bottom: 20px;
+}
+.my-mission {
+  display: flex;
+  margin: 10px 25px;
+  padding-bottom: 25px;
+}
+.web-mission {
+  background-color: rgba(194, 148, 24, 0.863);
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+.web-mission img {
+  width: 50%;
+}
+.web-mission h3 {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+}
+.web-mission p {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.web-vission {
+  background-color: rgba(28, 202, 94, 0.89);
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.web-vission img {
+  width: 50%;
+}
+.web-vission h3 {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+}
+.web-vission p {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.web-goals {
+  background-color: rgba(24, 187, 199, 0.918);
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-left: 5px;
+}
+.web-goals img {
+  width: 50%;
+}
+.web-goals h3 {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: white;
+  font-size: 24px;
+  font-weight: 400;
+}
+.web-goals p {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: white;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.develop-part {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  display: flex;
+}
+.develop-img img {
+  width: 65%;
+  padding-left: 10%;
+}
+.text-part {
+  margin-top: 50px;
+}
+.text-part h3 {
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+  color: rgba(18, 18, 43, 0.945);
+  font-size: 50px;
+  font-weight: 700;
+}
+.text-part p {
+  font-family: "Roboto", sans-serif;
+  text-align-last: left;
+  color: black;
+  font-size: 18px;
+  font-weight: 400;
+  padding-right: 100px;
+}
+
+.community {
+  padding: 80px 0;
+  display: flex;
+}
+.community-text {
+  width: 80%;
+}
+.community-text h3 {
+  font-family: "Roboto", sans-serif;
+  padding-left: 80px;
+  color: rgba(18, 18, 43, 0.945);
+  font-size: 50px;
+  font-weight: 700;
+}
+.community-text p {
+  font-family: "Roboto", sans-serif;
+  padding-left: 80px;
+  color: black;
+  font-size: 20px;
+  font-weight: 400;
+}
+.community_button {
+  padding-left: 20px;
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  padding: 10px 40px;
+  background-image: linear-gradient(
+    rgba(24, 24, 192, 0.87),
+    rgba(216, 9, 9, 0.65)
+  );
+  border-radius: 5px;
+  margin-left: 100px;
+}
+.community-img img {
+  width: 70%;
+  padding-left: 20px;
 }
